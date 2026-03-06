@@ -1,0 +1,6 @@
+// If Directx has a problem run with CarlaUE4.exe -d3d11
+// Launch Anaconda 
+// for first time create - > Conda Create --name carla-sim python = 3.7
+// activate carla-sim
+// After this 
+// run Carla and run the notebook afterthat conncecting them.
